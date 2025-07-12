@@ -1,23 +1,23 @@
 ## Hey There! I am Anushka.👋
-<h3>My Skills</h3>
+## My Skills
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
-</div>
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,linux,powershell)](https://skillicons.dev)
 
 
-<h3>Contacts</h3>
+  [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,sqlite)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,)](https://skillicons.dev)
 
-<a href="mailto:yourmail@example.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-</a>
+  
+
+ 
+
+## Contacts
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaishnav-wakchaure)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:vaishnav.wakchaure@gmail.com)
 
 <!--
 **AnushkaK20/AnushkaK20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
