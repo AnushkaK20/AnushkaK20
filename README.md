@@ -1,6 +1,6 @@
 ## Hey There! I am Anushka.👋
 ## My Skills
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
   
   [![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,linux,powershell)](https://skillicons.dev)
