@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=android,kotlin,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,cpp)](https://skillicons.dev)
 
 ## Contacts
 
