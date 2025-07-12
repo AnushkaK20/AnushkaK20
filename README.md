@@ -6,9 +6,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,c)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
+
 
 
 
