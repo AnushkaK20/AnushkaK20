@@ -1,23 +1,20 @@
 ## Hey There! I am Anushka.👋
+
 ## My Skills
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-  
-  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
 
-  
- [![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,cpp,)](https://skillicons.dev)
-
-  
-
- 
+[![My Skills](https://skillicons.dev/icons?i=android,kotlin,java,c,cpp)](https://skillicons.dev)
 
 ## Contacts
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaishnav-wakchaure)
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:vaishnav.wakchaure@gmail.com)
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaishnav-wakchaure)
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:vaishnav.wakchaure@gmail.com)
 
 <!--
 **AnushkaK20/AnushkaK20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
