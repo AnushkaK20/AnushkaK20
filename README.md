@@ -9,7 +9,7 @@
   [![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
 
   
-  [![My Skills](https://skillicons.dev/icons?i=android,kotlin,java,python,c,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=android,kotlin,java,python,c,cpp,)](https://skillicons.dev)
 
   
 
