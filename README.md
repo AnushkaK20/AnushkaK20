@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,android)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
 
