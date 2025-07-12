@@ -3,13 +3,13 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,linux,powershell)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
-  [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=firebase,sqlite,mysql)](https://skillicons.dev)
 
   
-  [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=android,kotlin,java,c,cpp,)](https://skillicons.dev)
 
   
 
