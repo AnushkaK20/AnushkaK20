@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,cpp)](https://skillicons.dev)
 
 ## Contacts
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anushka-kulkarni)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anushka-kulkarni-5b3b1222b)
   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:anushka.kulkarni1008@gmail.com)
 
 <!--
