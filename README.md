@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <!--
+<h3>My Skills</h3>
+
+<img src="https://raw.githubusercontent.com/vaishnavw45/vaishnavw45/main/0e1bae3f-ba1f-48a2-aa60-c53a460fa6be.png" width="40" height="40"/>
+
 **AnushkaK20/AnushkaK20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
